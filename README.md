@@ -26,3 +26,8 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJhoniWillian&labelColor=%23151515&countColor=%2392d534)
 
 </h4>
+<p align="center">
+
+![snake gif](https://github.com/evelynlacerda/evelynlacerda/blob/output/github-contribution-grid-snake-dark.svg)
+
+</p>

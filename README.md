@@ -12,6 +12,8 @@
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="128" alt="Bootstrap">
 </section>
 
+<br>
+
 <div> 
   <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: jhoniwillianguata@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
